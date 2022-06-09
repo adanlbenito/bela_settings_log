@@ -1,0 +1,6 @@
+tuning_string_1=329.63
+tuning_string_2=246.94
+tuning_string_3=196.00
+tuning_string_4=146.83
+tuning_string_5=110.00
+tuning_string_6=82.41
