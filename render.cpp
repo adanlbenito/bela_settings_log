@@ -93,7 +93,7 @@ void render(BelaContext *context, void *userData)
 
 void cleanup(BelaContext *context, void *userData)
 {
-	log_settings();
+	log_settings(nullptr);
 }
 
 void log_settings(void*)
